@@ -82,7 +82,7 @@ new Chart(chartCanvas.value, {
 
 **Exiba no template**
 
-Importe o novo componente e adicione: **<AreaChart />**
+Importe o novo componente e adicione**AreaChart />**
 
 **🧠Referências Técnicas**
 
