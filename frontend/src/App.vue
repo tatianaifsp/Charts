@@ -1,5 +1,5 @@
 <!-- =========================================================
-🔹 Componente raiz — apenas exibe a rota atual
+Componente raiz — apenas exibe a rota atual
 ========================================================= -->
 <template>
   <router-view />
