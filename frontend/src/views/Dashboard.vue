@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <!-- Título da página -->
-    <h1>🌍 Top 10 Países mais Populosos</h1>
+    <h1> Top 10 Países mais Populosos</h1>
 
     <!-- Botão para buscar os dados manualmente -->
     <button @click="loadData" :disabled="store.loading">
